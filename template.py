@@ -11,7 +11,8 @@ list_of_files = [
     "requirements.txt",
     "setup.py",
     "app.py",
-    "research/trials.ipynb"
+    "research/trials.ipynb",
+    "dataset/sample.txt"
 ]
 
 for filepath in list_of_files:
