@@ -1,5 +1,6 @@
 # Folders
 .venv
+myenv
 DocuBOT.egg-info
 faiss_index
 dataset/*
