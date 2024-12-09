@@ -12,7 +12,8 @@ list_of_files = [
     "setup.py",
     "app.py",
     "research/trials.ipynb",
-    "dataset/sample.txt"
+    "dataset/sample.txt",
+    "assets/sample.txt",
 ]
 
 for filepath in list_of_files:
